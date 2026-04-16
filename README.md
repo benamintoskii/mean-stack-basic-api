@@ -1,4 +1,3 @@
-# mean-stack-basic-api
 # Basic MEAN Stack API
 
 This project is a simple backend application built with Express.js that provides a REST API for managing a list of items.
@@ -7,6 +6,15 @@ This project is a simple backend application built with Express.js that provides
 
 * GET /items → Returns a list of items
 * POST /items → Adds a new item
+
+## Example Response
+
+GET /items
+
+[
+{ "id": 1, "name": "Item 1" },
+{ "id": 2, "name": "Item 2" }
+]
 
 ## Tech Stack
 
@@ -30,6 +38,12 @@ Currently working on:
 
 3. Open in browser:
    http://localhost:3000/items
+
+## Future Improvements
+
+* Connect to MongoDB database
+* Add full CRUD operations
+* Build Angular frontend
 
 ---
 
