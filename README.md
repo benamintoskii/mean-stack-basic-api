@@ -28,7 +28,7 @@ Currently working on:
 * Integrating MongoDB
 * Building Angular frontend
 
-## How to Run
+## Use to Run
 
 1. Install dependencies:
    npm install
