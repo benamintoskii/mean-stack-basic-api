@@ -1,7 +1,7 @@
 # mean-stack-basic-api
 # Basic MEAN Stack API
 
-This project is a simple backend application built with Express.js as part of my MEAN stack learning journey.
+This project is a simple backend application built with Express.js that provides a REST API for managing a list of items.
 
 ## Features
 
