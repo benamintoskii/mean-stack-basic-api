@@ -1,6 +1,6 @@
 # Basic MEAN Stack API
 
-This project is a simple backend application built with Express.js that provides a REST API for managing a list of items.
+This project demonstrates a basic API and frontend integration. Currently expanding it to full CRUD functionality.
 
 ## Features
 
